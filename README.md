@@ -11,3 +11,5 @@ API-INTEGRATION-AND-DATA-VISUALIZATION
 *DURATION* : 4 WEEKS
 
 *MENTOR* : NEELA SANTOSH
+
+#OUTPUT : ![Image](https://github.com/user-attachments/assets/99b8b3f1-c749-45f2-981c-27420342ce2e)
