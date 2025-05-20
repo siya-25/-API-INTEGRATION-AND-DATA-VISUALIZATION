@@ -1,16 +1,5 @@
 API-INTEGRATION-AND-DATA-VISUALIZATION
 
-*COMPANY* : CODTECH IT SOLUTIONS 
-
-*NAME* : SIYA PAGAR
-
-*INTERN ID* : CT04WN39
-
-*DOMAIN* : PYTHON PROGRAMMING 
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTOSH
 
 This project is designed to fetch weather forecast data from the OpenWeatherMap API and visualize temperature and humidity trends using Python. It incorporates essential programming techniques such as API integration, data extraction, data visualization, and error handling. The script is ideal for students learning how to work with real-world data using Python.
 
